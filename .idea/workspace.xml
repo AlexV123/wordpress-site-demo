@@ -2,104 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1eb666a5-d41c-4870-b8f4-6c3c97cd1230" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/public/license.txt" afterPath="$PROJECT_DIR$/app/public/license.txt" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-admin/about.php" afterPath="$PROJECT_DIR$/app/public/wp-admin/about.php" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-admin/css/common-rtl.css" afterPath="$PROJECT_DIR$/app/public/wp-admin/css/common-rtl.css" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-admin/css/common-rtl.min.css" afterPath="$PROJECT_DIR$/app/public/wp-admin/css/common-rtl.min.css" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-admin/css/common.css" afterPath="$PROJECT_DIR$/app/public/wp-admin/css/common.css" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-admin/css/common.min.css" afterPath="$PROJECT_DIR$/app/public/wp-admin/css/common.min.css" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-admin/css/customize-nav-menus-rtl.css" afterPath="$PROJECT_DIR$/app/public/wp-admin/css/customize-nav-menus-rtl.css" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-admin/css/customize-nav-menus-rtl.min.css" afterPath="$PROJECT_DIR$/app/public/wp-admin/css/customize-nav-menus-rtl.min.css" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-admin/css/customize-nav-menus.css" afterPath="$PROJECT_DIR$/app/public/wp-admin/css/customize-nav-menus.css" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-admin/css/customize-nav-menus.min.css" afterPath="$PROJECT_DIR$/app/public/wp-admin/css/customize-nav-menus.min.css" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-admin/includes/image.php" afterPath="$PROJECT_DIR$/app/public/wp-admin/includes/image.php" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-admin/includes/media.php" afterPath="$PROJECT_DIR$/app/public/wp-admin/includes/media.php" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-admin/includes/update-core.php" afterPath="$PROJECT_DIR$/app/public/wp-admin/includes/update-core.php" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-admin/js/editor.js" afterPath="$PROJECT_DIR$/app/public/wp-admin/js/editor.js" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-admin/js/editor.min.js" afterPath="$PROJECT_DIR$/app/public/wp-admin/js/editor.min.js" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-admin/js/plugin-install.js" afterPath="$PROJECT_DIR$/app/public/wp-admin/js/plugin-install.js" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-admin/js/plugin-install.min.js" afterPath="$PROJECT_DIR$/app/public/wp-admin/js/plugin-install.min.js" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-admin/js/widgets/custom-html-widgets.js" afterPath="$PROJECT_DIR$/app/public/wp-admin/js/widgets/custom-html-widgets.js" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-admin/js/widgets/custom-html-widgets.min.js" afterPath="$PROJECT_DIR$/app/public/wp-admin/js/widgets/custom-html-widgets.min.js" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-admin/theme-install.php" afterPath="$PROJECT_DIR$/app/public/wp-admin/theme-install.php" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/category-template.php" afterPath="$PROJECT_DIR$/app/public/wp-includes/category-template.php" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/customize/class-wp-customize-themes-section.php" afterPath="$PROJECT_DIR$/app/public/wp-includes/customize/class-wp-customize-themes-section.php" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/default-filters.php" afterPath="$PROJECT_DIR$/app/public/wp-includes/default-filters.php" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/functions.php" afterPath="$PROJECT_DIR$/app/public/wp-includes/functions.php" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mce-view.js" afterPath="$PROJECT_DIR$/app/public/wp-includes/js/mce-view.js" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mce-view.min.js" afterPath="$PROJECT_DIR$/app/public/wp-includes/js/mce-view.min.js" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/lang/ca.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/lang/cs.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/lang/de.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/lang/es.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/lang/fa.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/lang/fr.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/lang/hr.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/lang/hu.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/lang/it.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/lang/ja.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/lang/ko.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/lang/nl.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/lang/pl.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/lang/pt.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/lang/ro.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/lang/ru.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/lang/sk.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/lang/sv.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/lang/uk.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/lang/zh-cn.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/lang/zh.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/mediaelement-flash-audio-ogg.swf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/mediaelement-flash-audio.swf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/mediaelement-flash-video-hls.swf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/mediaelement-flash-video-mdash.swf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/mediaelement-flash-video.swf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/renderers/dailymotion.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/renderers/dailymotion.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/renderers/facebook.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/renderers/facebook.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/renderers/soundcloud.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/renderers/soundcloud.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/renderers/twitch.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/mediaelement/renderers/twitch.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/tinymce/plugins/wplink/plugin.js" afterPath="$PROJECT_DIR$/app/public/wp-includes/js/tinymce/plugins/wplink/plugin.js" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/tinymce/plugins/wplink/plugin.min.js" afterPath="$PROJECT_DIR$/app/public/wp-includes/js/tinymce/plugins/wplink/plugin.min.js" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/js/tinymce/wp-tinymce.js.gz" afterPath="$PROJECT_DIR$/app/public/wp-includes/js/tinymce/wp-tinymce.js.gz" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/media.php" afterPath="$PROJECT_DIR$/app/public/wp-includes/media.php" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/random_compat/random_bytes_com_dotnet.php" afterPath="$PROJECT_DIR$/app/public/wp-includes/random_compat/random_bytes_com_dotnet.php" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/random_compat/random_bytes_dev_urandom.php" afterPath="$PROJECT_DIR$/app/public/wp-includes/random_compat/random_bytes_dev_urandom.php" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/random_compat/random_bytes_libsodium.php" afterPath="$PROJECT_DIR$/app/public/wp-includes/random_compat/random_bytes_libsodium.php" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/random_compat/random_bytes_libsodium_legacy.php" afterPath="$PROJECT_DIR$/app/public/wp-includes/random_compat/random_bytes_libsodium_legacy.php" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/random_compat/random_bytes_mcrypt.php" afterPath="$PROJECT_DIR$/app/public/wp-includes/random_compat/random_bytes_mcrypt.php" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/random_compat/random_bytes_openssl.php" afterPath="$PROJECT_DIR$/app/public/wp-includes/random_compat/random_bytes_openssl.php" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/random_compat/random_int.php" afterPath="$PROJECT_DIR$/app/public/wp-includes/random_compat/random_int.php" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/rest-api/class-wp-rest-server.php" afterPath="$PROJECT_DIR$/app/public/wp-includes/rest-api/class-wp-rest-server.php" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php" afterPath="$PROJECT_DIR$/app/public/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/version.php" afterPath="$PROJECT_DIR$/app/public/wp-includes/version.php" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/widgets.php" afterPath="$PROJECT_DIR$/app/public/wp-includes/widgets.php" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/wp-db.php" afterPath="$PROJECT_DIR$/app/public/wp-includes/wp-db.php" />
       <change beforePath="$PROJECT_DIR$/logs/mysql/error.log" afterPath="$PROJECT_DIR$/logs/mysql/error.log" />
       <change beforePath="$PROJECT_DIR$/logs/nginx/access.log" afterPath="$PROJECT_DIR$/logs/nginx/access.log" />
-      <change beforePath="$PROJECT_DIR$/logs/php/error.log" afterPath="$PROJECT_DIR$/logs/php/error.log" />
       <change beforePath="$PROJECT_DIR$/logs/php/php-fpm.log" afterPath="$PROJECT_DIR$/logs/php/php-fpm.log" />
-      <change beforePath="$PROJECT_DIR$/logs/supervisor/MailHog-stderr---supervisor-MOUqr2.log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/logs/supervisor/MailHog-stdout---supervisor-XA04gx.log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/logs/supervisor/mysql-stderr---supervisor-8805CZ.log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/logs/supervisor/mysql-stdout---supervisor-BEQ7Ip.log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/logs/supervisor/nginx-stderr---supervisor-KLmLFr.log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/logs/supervisor/nginx-stdout---supervisor-SvEST0.log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/logs/supervisor/php-fpm-stderr---supervisor-F7AF6I.log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/logs/supervisor/php-fpm-stdout---supervisor-xPRBtO.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/supervisor/MailHog-stderr---supervisor-7eVPaR.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/supervisor/MailHog-stdout---supervisor-nNwyY3.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/supervisor/mysql-stderr---supervisor-ezDkqK.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/supervisor/mysql-stdout---supervisor-fEABaQ.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/supervisor/nginx-stderr---supervisor-BEnKGW.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/supervisor/nginx-stdout---supervisor-_MuSr4.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/supervisor/php-fpm-stderr---supervisor-1hvQjI.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/supervisor/php-fpm-stdout---supervisor-4SVlPK.log" afterPath="" />
       <change beforePath="$PROJECT_DIR$/logs/supervisor/supervisord.log" afterPath="$PROJECT_DIR$/logs/supervisor/supervisord.log" />
-      <change beforePath="$PROJECT_DIR$/logs/supervisor/varnish-plugins-watcher-stderr---supervisor-d0sO7s.log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/logs/supervisor/varnish-plugins-watcher-stdout---supervisor-XRGzVQ.log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/logs/supervisor/varnish-themes-watcher-stderr---supervisor-gFZY5R.log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/logs/supervisor/varnish-themes-watcher-stdout---supervisor-cbKeed.log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/logs/supervisor/varnishd-stderr---supervisor-FqY0p5.log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/logs/supervisor/varnishd-stdout---supervisor-Q8QBfI.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/supervisor/varnish-plugins-watcher-stderr---supervisor-5oLaWD.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/supervisor/varnish-plugins-watcher-stdout---supervisor-ShcNOf.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/supervisor/varnish-themes-watcher-stderr---supervisor-PSJqPh.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/supervisor/varnish-themes-watcher-stdout---supervisor-yk7s4U.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/supervisor/varnishd-stderr---supervisor-Qw1T_H.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/supervisor/varnishd-stdout---supervisor-AgrPWg.log" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -114,8 +35,8 @@
       <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/public/wp-content/themes/twentyseventeen/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="827">
-              <caret line="438" column="34" lean-forward="false" selection-start-line="438" selection-start-column="34" selection-end-line="438" selection-end-column="34" />
+            <state relative-caret-position="347">
+              <caret line="406" column="0" lean-forward="false" selection-start-line="406" selection-start-column="0" selection-end-line="406" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -159,7 +80,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -209,6 +129,7 @@
       </pane>
       <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -326,12 +247,13 @@
       <updated>1516107208669</updated>
       <workItem from="1516107211686" duration="687000" />
       <workItem from="1516108231930" duration="31000" />
-      <workItem from="1516565483714" duration="17000" />
+      <workItem from="1516565483714" duration="316000" />
+      <workItem from="1516565830052" duration="47000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="735000" />
+    <option name="totallyTimeSpent" value="1081000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="88" y="38" width="1513" height="849" extended-state="0" />
@@ -341,14 +263,14 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891247" sideWeight="0.50237936" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891247" sideWeight="0.5078178" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891247" sideWeight="0.49762067" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891247" sideWeight="0.4921822" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25628823" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25968727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -386,6 +308,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/public/wp-content/themes/twentyseventeen/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/public/wp-content/themes/twentyseventeen/comments.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
@@ -409,8 +339,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/public/wp-content/themes/twentyseventeen/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="827">
-          <caret line="438" column="34" lean-forward="false" selection-start-line="438" selection-start-column="34" selection-end-line="438" selection-end-column="34" />
+        <state relative-caret-position="347">
+          <caret line="406" column="0" lean-forward="false" selection-start-line="406" selection-start-column="0" selection-end-line="406" selection-end-column="0" />
           <folding />
         </state>
       </provider>
