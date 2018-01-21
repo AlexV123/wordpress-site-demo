@@ -4,3 +4,28 @@
 [14-Jan-2018 21:12:09 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
 [14-Jan-2018 21:12:10 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
 [14-Jan-2018 21:12:10 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[14-Jan-2018 21:31:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method eightmedi_lite_About_Theme::eightmedi_lite_call_plugin_api() in /app/public/wp-content/themes/eightmedi-lite/welcome/eightmedi_lite_about.php:414
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(286): eightmedi_lite_About_Theme->eightmedi_lite_plugin_activation_callback('')
+#1 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /app/public/wp-admin/admin-ajax.php(97): do_action('wp_ajax_eightme...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/eightmedi-lite/welcome/eightmedi_lite_about.php on line 414
+[14-Jan-2018 21:34:37 UTC] PHP Warning:  rename(/app/public/wp-content/plugins/instant-demo-importer-master,/app/public/wp-content/plugins/instant-demo-importer): No such file or directory in /app/public/wp-content/themes/eightmedi-lite/welcome/eightmedi_lite_about.php on line 364
+[14-Jan-2018 21:34:57 UTC] PHP Warning:  rename(/app/public/wp-content/plugins/instant-demo-importer-master,/app/public/wp-content/plugins/instant-demo-importer): No such file or directory in /app/public/wp-content/themes/eightmedi-lite/welcome/eightmedi_lite_about.php on line 364
+[14-Jan-2018 21:34:58 UTC] PHP Warning:  rename(/app/public/wp-content/plugins/instant-demo-importer-master,/app/public/wp-content/plugins/instant-demo-importer): No such file or directory in /app/public/wp-content/themes/eightmedi-lite/welcome/eightmedi_lite_about.php on line 364
+[14-Jan-2018 21:35:00 UTC] PHP Warning:  rename(/app/public/wp-content/plugins/instant-demo-importer-master,/app/public/wp-content/plugins/instant-demo-importer): No such file or directory in /app/public/wp-content/themes/eightmedi-lite/welcome/eightmedi_lite_about.php on line 364
+[14-Jan-2018 21:35:05 UTC] PHP Warning:  rename(/app/public/wp-content/plugins/instant-demo-importer-master,/app/public/wp-content/plugins/instant-demo-importer): No such file or directory in /app/public/wp-content/themes/eightmedi-lite/welcome/eightmedi_lite_about.php on line 364
+[14-Jan-2018 21:35:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method eightmedi_lite_About_Theme::eightmedi_lite_call_plugin_api() in /app/public/wp-content/themes/eightmedi-lite/welcome/eightmedi_lite_about.php:414
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(286): eightmedi_lite_About_Theme->eightmedi_lite_plugin_activation_callback('')
+#1 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /app/public/wp-admin/admin-ajax.php(97): do_action('wp_ajax_eightme...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/eightmedi-lite/welcome/eightmedi_lite_about.php on line 414
+[18-Jan-2018 18:49:07 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[18-Jan-2018 18:49:07 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[18-Jan-2018 18:49:08 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[18-Jan-2018 18:49:08 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75

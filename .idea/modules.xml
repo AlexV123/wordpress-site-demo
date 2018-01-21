@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/wordpresssitedemo.iml" filepath="$PROJECT_DIR$/wordpresssitedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wordpress-site-demo.iml" filepath="$PROJECT_DIR$/wordpress-site-demo.iml" />
     </modules>
   </component>
 </project>

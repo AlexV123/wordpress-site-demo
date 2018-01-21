@@ -1,0 +1,9 @@
+2018-01-14T21:35:34+00:00 CRITICAL Uncaught Error: Call to undefined method eightmedi_lite_About_Theme::eightmedi_lite_call_plugin_api() in /app/public/wp-content/themes/eightmedi-lite/welcome/eightmedi_lite_about.php:414
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(286): eightmedi_lite_About_Theme->eightmedi_lite_plugin_activation_callback('')
+#1 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /app/public/wp-admin/admin-ajax.php(97): do_action('wp_ajax_eightme...')
+#4 {main}
+  thrown
+

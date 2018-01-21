@@ -1,0 +1,36 @@
+== Change log ==
+
+= 1.2.2 =
+* Fix: Sanitization Function changed from esc_textarea to wp_kses
+
+= 1.2.1 =
+* Fix: Few bug fixes
+
+= 1.2.0 =
+* Added : Various Options in Widgets and Customizer
+* Fix: Various bug fixes
+
+= 1.1.1 =
+* Fix: Minor bugs
+
+= 1.1.0 =
+* Update: Changed Library of breadcrumbs
+* Remove : Custom CSS in favor of WP 4.7
+* Fix: CSS tweaks
+* Fix: Various bug fixes
+
+= 1.0.2 =
+* Update: Some design updates
+
+= 1.0.1 =
+* Fix: Fixed comment list showing raw HTML
+* Added : Added license for image used on screenshot
+* Update: Some design updates
+
+= 1.0.0 =
+* Update: Extend theme Customizer options
+* Added : Custom widgets
+* Fix: Fixed and Extended CSS
+
+= 0.0.1 =
+* Submitted to WordPress.org
