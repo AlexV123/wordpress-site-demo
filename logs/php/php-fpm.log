@@ -5,3 +5,5 @@
 [17-Jan-2018 14:39:08] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
 [18-Jan-2018 18:15:00] NOTICE: fpm is running, pid 25
 [18-Jan-2018 18:15:00] NOTICE: ready to handle connections
+[21-Jan-2018 20:15:35] NOTICE: fpm is running, pid 8
+[21-Jan-2018 20:15:35] NOTICE: ready to handle connections
